@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/landis-hub-quebec/landis-hub-quebec.github.io/blob/master/assets/media/callToActionLogo.png?raw=true"/>
+</p>
+
+
 # 🇫🇷 Bienvenue sur l'accueil du LANDIS Hub Quebec !
 *(English version below)*
 
